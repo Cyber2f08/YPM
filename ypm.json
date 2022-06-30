@@ -1,0 +1,14 @@
+{
+    "product":
+    {
+        "name": "ypm",
+        "description": "Yuri Personal package manager...",
+        "language": "python",
+        "version": "0.0.1"
+    },
+    "author":
+    {
+        "name": "Faiq Ahmad Nashshar",
+        "email": "cyber.2f08@gmail.com"
+    }
+}
